@@ -5,7 +5,7 @@ class ddd
     public static void main(String args[]) 
     { 
 
-        System.out.println("Hello, multiwin"); 
+        System.out.println("Hello, multi"); 
 
     } 
 } 
